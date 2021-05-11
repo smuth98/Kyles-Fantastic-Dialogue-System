@@ -30,3 +30,6 @@ Spacebar advances dialogue once implemented into the scene. If null characters o
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update test scenes as appropriate.
+
+## License
+MIT
