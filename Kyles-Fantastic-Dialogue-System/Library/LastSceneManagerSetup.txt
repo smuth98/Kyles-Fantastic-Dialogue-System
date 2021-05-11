@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/JohnAndNull.unity
+- path: Assets/Scenes/JohnathanAndHenry.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
