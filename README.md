@@ -23,7 +23,7 @@ Conversation objects have 2 attribute fields, Characters and Lines
 Side objects are simply flags currently only used to determine which side of the screen a character is facing. It only has one attribute: Side
   -Side is a string used a flag in the DialogueDisplay, the only two used currently are "Left" and "Right".
 
-###Testing
+### Testing
 Spacebar advances dialogue once implemented into the scene. If null characters or characters will null values are added to conversations, they will log warnings in the Unity console and not display anything in the game. 
 
 ## Contributing
