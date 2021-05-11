@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79187d0a4c154634da473c9076fef46e, type: 3}
+  m_Name: JohnAndHenry
+  m_EditorClassIdentifier: 
+  characters: []
+  lines:
+  - character: {fileID: 11400000, guid: 45823ab72df8eeb468adc1ab16aa932e, type: 2}
+    side: {fileID: 11400000, guid: ce8304bf4a691c342b7755330473e2fa, type: 2}
+    text: How are you today, Henry?
+  - character: {fileID: 11400000, guid: 4150547b9b4e5464db1887ccfada837b, type: 2}
+    side: {fileID: 11400000, guid: 24b87e0f3528053429e7a33344ae914f, type: 2}
+    text: "I am quite good, \nJohnathan."
+  - character: {fileID: 11400000, guid: 4150547b9b4e5464db1887ccfada837b, type: 2}
+    side: {fileID: 11400000, guid: 24b87e0f3528053429e7a33344ae914f, type: 2}
+    text: Most efficacious!
+  - character: {fileID: 11400000, guid: 45823ab72df8eeb468adc1ab16aa932e, type: 2}
+    side: {fileID: 11400000, guid: ce8304bf4a691c342b7755330473e2fa, type: 2}
+    text: G'day chap!

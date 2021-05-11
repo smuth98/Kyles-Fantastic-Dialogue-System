@@ -1,0 +1,31 @@
+{
+  "name": "com.unity.quicksearch",
+  "displayName": "Quick Search",
+  "version": "3.0.0-preview.8",
+  "unity": "2020.3",
+  "description": "Search multiple areas of Unity: assets, scene hierarchy, menu items, packages, APIs, settings, etc.\n\nLook in the shortcut manager to set your favorite Search All... shortcut.",
+  "type": "tool",
+  "keywords": [
+    "unity",
+    "editor",
+    "omni",
+    "tool",
+    "quick",
+    "find",
+    "search",
+    "assets",
+    "menu",
+    "scene",
+    "api",
+    "packages",
+    "anything"
+  ],
+  "upmCi": {
+    "footprint": "64be0757d88e7af8cc96d4de34deb74188e9c9ac"
+  },
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/com.unity.quicksearch.git",
+    "type": "git",
+    "revision": "960714914d300148f8bf8089611ca1562e22d160"
+  }
+}
