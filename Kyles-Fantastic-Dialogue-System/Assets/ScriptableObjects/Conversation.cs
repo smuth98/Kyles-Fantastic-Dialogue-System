@@ -1,6 +1,11 @@
 using UnityEngine;
 using UnityEngine.UI;
 
+/*
+ * Author: Stephen Kyle Muth
+ * Date Written: 5/11/2021
+ */
+
 [System.Serializable]
 public struct Line
 {

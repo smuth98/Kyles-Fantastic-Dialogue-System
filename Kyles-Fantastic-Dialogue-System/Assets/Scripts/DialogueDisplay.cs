@@ -3,6 +3,11 @@ using UnityEngine;
 using UnityEngine.Rendering;
 using UnityEngine.UI;
 
+/*
+ * Author: Stephen Kyle Muth
+ * Date Written: 5/11/2021
+ */
+
 public class DialogueDisplay : MonoBehaviour
 {
     public Conversation conversation;
